@@ -1,0 +1,1 @@
+; use nearest-neighbor interpolation, probably
